@@ -1,6 +1,6 @@
 # TEAM
 
-[1] Salah El Kazak  
+[1] Salahuddin ElKazak  
 [2] Ahmed Ghoneim  
 [3] Karim Soliman  
 [4] Amr Ashraf  
